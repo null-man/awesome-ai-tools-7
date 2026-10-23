@@ -35,6 +35,9 @@ Awesome AI Tools of the Future
 
 ### Video
 - [GrokVideo Studio](https://grokvideogenerator.dev) - Independent text/image-to-video; free trial; not affiliated with xAI/X
+- [Alors On Danse Video Maker](https://alorsondansevideo.com) - Two portraits → 13s 480p studio dance clip; independent, paid, unofficial
+- [Bad Times AI](https://badtimesai.dev) - Photo → AI dance effect video; independent, paid from $7.99, unofficial
+- [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) - Photos → meet-in-the-crowd video effect; independent, paid from $7.99, unofficial
 - [Runway](https://runwayml.com)
 - [HeyGen](https://www.heygen.com)
 - [Pika](https://www.pika.art)
