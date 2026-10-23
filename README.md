@@ -23,6 +23,8 @@ Awesome AI Tools of the Future
 - [LanguageTool](https://languagetool.org/)
 
 ### Image
+- [PromptImage](https://promptimage.cloud) - Free AI image gallery + multi-model image/video studio with prompt library
+- [TeslaWraps](https://teslawraps.design) - Browser Tesla wrap designer; free core editor, optional AI
 - [Midjourney](https://www.midjourney.com)
 - [DALL·E 3](https://openai.com/dall-e-3)
 - [Firefly](https://firefly.adobe.com)
@@ -32,6 +34,7 @@ Awesome AI Tools of the Future
 - [Gencraft](https://gencraft.com/)
 
 ### Video
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent text/image-to-video; free trial; not affiliated with xAI/X
 - [Runway](https://runwayml.com)
 - [HeyGen](https://www.heygen.com)
 - [Pika](https://www.pika.art)
